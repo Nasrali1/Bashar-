@@ -60,7 +60,7 @@ else
 fi
 }
 
-scanner() {
+scanner(b.alyeman) {
 
 printf "\e[1;92m[\e[0m\e[1;77m>\e[0m\e[1;92m] Checking username\e[0m\e[1;77m %s\e[0m\e[1;92m on social networks: \e[0m\n" $username
 
